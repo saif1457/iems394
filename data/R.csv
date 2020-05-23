@@ -15,7 +15,7 @@ Imperial
 Inyo
 Kern
 Kings
-Lake
+Lake_CA
 Lassen
 Los Angeles
 Madera
@@ -28,7 +28,7 @@ Mono
 Monterey
 Napa
 Nevada
-Orange
+Orange_CA
 Placer
 Plumas
 Riverside
@@ -51,7 +51,7 @@ Sonoma
 Stanislaus
 Sutter
 Tehama
-Trinity
+Trinity_CA
 Tulare
 Tuolumne
 Ventura
@@ -64,13 +64,13 @@ Beltrami
 Benton
 Big Stone
 Blue Earth
-Brown
+Brown_MN
 Carlton
 Carver
-Cass
+Cass_MN
 Chippewa
 Chisago
-Clay
+Clay_MN
 Clearwater
 Cook
 Cottonwood
@@ -84,17 +84,17 @@ Freeborn
 Goodhue
 Grant
 Hennepin
-Houston
+Houston_MN
 Hubbard
 Isanti
 Itasca
-Jackson
+Jackson_MN
 Kanabec
 Kandiyohi
 Kittson
 Koochiching
 Lac qui Parle
-Lake
+Lake_MN
 Lake of the Woods
 Le Sueur
 Lincoln
@@ -102,7 +102,7 @@ Lyon
 McLeod
 Mahnomen
 Marshall
-Martin
+Martin_MN
 Meeker
 Mille Lacs
 Morrison
@@ -116,7 +116,7 @@ Otter Tail
 Pennington
 Pine
 Pipestone
-Polk
+Polk_MN
 Pope
 Ramsey
 Red Lake
@@ -138,7 +138,7 @@ Traverse
 Wabasha
 Wadena
 Waseca
-Washington
+Washington_MN
 Watonwan
 Wilkin
 Winona
@@ -168,7 +168,7 @@ Brazos
 Brewster
 Briscoe
 Brooks
-Brown
+Brown_TX
 Burleson
 Burnet
 Caldwell
@@ -177,12 +177,12 @@ Callahan
 Cameron
 Camp
 Carson
-Cass
+Cass_TX
 Castro
 Chambers
 Cherokee
 Childress
-Clay
+Clay_TX
 Cochran
 Coke
 Coleman
@@ -256,14 +256,14 @@ Hill
 Hockley
 Hood
 Hopkins
-Houston
+Houston_TX
 Howard
 Hudspeth
 Hunt
 Hutchinson
 Irion
 Jack
-Jackson
+Jackson_TX
 Jasper
 Jeff Davis
 Jefferson
@@ -302,7 +302,7 @@ McLennan
 McMullen
 Madison
 Marion
-Martin
+Martin_TX
 Mason
 Matagorda
 Maverick
@@ -324,13 +324,13 @@ Nolan
 Nueces
 Ochiltree
 Oldham
-Orange
+Orange_TX
 Palo Pinto
 Panola
 Parker
 Parmer
 Pecos
-Polk
+Polk_TX
 Potter
 Presidio
 Rains
@@ -371,7 +371,7 @@ Throckmorton
 Titus
 Tom Green
 Travis
-Trinity
+Trinity_TX
 Tyler
 Upshur
 Upton
@@ -382,7 +382,7 @@ Victoria
 Walker
 Waller
 Ward
-Washington
+Washington_TX
 Webb
 Wharton
 Wheeler

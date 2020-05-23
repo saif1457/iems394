@@ -33,8 +33,8 @@ Brazos,"$50,113",6
 Brewster,"$45,670",5
 Briscoe,"$44,409",5
 Brooks,"$30,116",4
-Brown,"$47,097",5
-Brown,"$60,626",6
+Brown_MN,"$47,097",5
+Brown_TX,"$60,626",6
 Burleson,"$53,626",6
 Burnet,"$56,696",6
 Butte,"$50,945",6
@@ -47,16 +47,16 @@ Camp,"$43,714",5
 Carlton,"$60,412",6
 Carson,"$64,799",6
 Carver,"$104,248",8
-Cass,"$44,154",5
-Cass,"$48,651",5
+Cass_MN,"$44,154",5
+Cass_TX,"$48,651",5
 Castro,"$45,689",5
 Chambers,"$89,513",7
 Cherokee,"$43,483",5
 Childress,"$42,291",5
 Chippewa,"$53,540",6
 Chisago,"$82,814",7
-Clay,"$58,356",6
-Clay,"$65,914",6
+Clay_MN,"$58,356",6
+Clay_TX,"$65,914",6
 Clearwater,"$51,475",6
 Cochran,"$42,873",5
 Coke,"$44,804",5
@@ -149,8 +149,8 @@ Hill,"$48,670",5
 Hockley,"$46,764",5
 Hood,"$60,917",6
 Hopkins,"$52,079",6
-Houston,"$39,533",5
-Houston,"$59,613",6
+Houston_MN,"$39,533",5
+Houston_TX,"$59,613",6
 Howard,"$50,423",6
 Hubbard,"$55,687",6
 Hudspeth,"$42,671",5
@@ -163,8 +163,8 @@ Irion,"$56,775",6
 Isanti,"$73,468",6
 Itasca,"$53,143",6
 Jack,"$48,780",5
-Jackson,"$54,088",6
-Jackson,"$57,786",6
+Jackson_MN,"$54,088",6
+Jackson_TX,"$57,786",6
 Jasper,"$47,551",5
 Jeff Davis,"$51,343",6
 Jefferson,"$48,121",5
@@ -191,8 +191,8 @@ Knox,"$39,726",5
 Koochiching,"$46,281",5
 La Salle,"$40,072",5
 Lac qui Parle,"$52,445",6
-Lake,"$45,086",5
-Lake,"$61,015",6
+Lake_CA,"$45,086",5
+Lake_MN,"$61,015",6
 Lake of the Woods,"$52,058",6
 Lamar,"$45,767",5
 Lamb,"$42,700",5
@@ -220,8 +220,8 @@ Marin,"$122,933",8
 Marion,"$38,011",5
 Mariposa,"$51,402",6
 Marshall,"$58,105",6
-Martin,"$50,821",6
-Martin,"$56,484",6
+Martin_MN,"$50,821",6
+Martin_TX,"$56,484",6
 Mason,"$49,560",5
 Matagorda,"$48,830",5
 Maverick,"$35,594",5
@@ -263,8 +263,8 @@ Nueces,"$53,034",6
 Ochiltree,"$49,845",5
 Oldham,"$56,590",6
 Olmsted,"$76,001",7
-Orange,"$56,556",6
-Orange,"$89,373",7
+Orange_CA,"$56,556",6
+Orange_TX,"$89,373",7
 Otter Tail,"$53,778",6
 Palo Pinto,"$46,067",5
 Panola,"$51,192",6
@@ -276,8 +276,8 @@ Pine,"$50,387",6
 Pipestone,"$55,378",6
 Placer,"$89,175",7
 Plumas,"$55,079",6
-Polk,"$46,017",5
-Polk,"$60,180",6
+Polk_MN,"$46,017",5
+Polk_TX,"$60,180",6
 Pope,"$60,975",6
 Potter,"$41,912",5
 Presidio,"$37,738",5
@@ -356,8 +356,8 @@ Todd,"$58,113",6
 Tom Green,"$51,393",6
 Traverse,"$49,773",5
 Travis,"$76,255",7
-Trinity,"$40,486",5
-Trinity,"$40,680",5
+Trinity_CA,"$40,486",5
+Trinity_TX,"$40,680",5
 Tulare,"$48,763",5
 Tuolumne,"$56,500",6
 Tyler,"$44,041",5
@@ -374,8 +374,8 @@ Walker,"$43,681",5
 Waller,"$59,807",6
 Ward,"$53,621",6
 Waseca,"$58,335",6
-Washington,"$54,332",6
-Washington,"$95,840",7
+Washington_MN,"$54,332",6
+Washington_TX,"$95,840",7
 Watonwan,"$51,962",6
 Webb,"$44,919",5
 Wharton,"$48,040",5
