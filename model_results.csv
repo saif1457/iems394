@@ -1,0 +1,400 @@
+,County,vehicle_pc_BEV,vehicle_pc_FFV,vehicle_pc_SIDI
+0,Alameda_CA,83.4,16.6,0.0
+1,Alpine_CA,21.8,0.0,78.2
+2,Amador_CA,42.9,0.0,57.1
+3,Butte_CA,29.3,6.7,64.0
+4,Calaveras_CA,12.5,0.0,87.5
+5,Colusa_CA,19.7,0.0,80.3
+6,Contra Costa_CA,94.4,5.6,0.0
+7,Del Norte_CA,19.5,0.0,80.5
+8,El Dorado_CA,53.5,6.7,39.8
+9,Fresno_CA,27.3,4.3,68.4
+10,Glenn_CA,8.8,0.6,90.6
+11,Humboldt_CA,22.1,0.0,77.9
+12,Imperial_CA,4.3,2.6,93.1
+13,Inyo_CA,3.4,0.0,96.6
+14,Kern_CA,22.8,2.0,75.3
+15,Kings_CA,32.2,0.0,67.8
+16,Lake_CA,23.1,0.0,76.9
+17,Lassen_CA,3.2,0.0,96.8
+18,Los Angeles_CA,63.0,33.8,3.2
+19,Madera_CA,30.8,1.4,67.9
+20,Marin_CA,80.3,0.0,19.7
+21,Mariposa_CA,25.5,0.0,74.5
+22,Mendocino_CA,27.4,0.0,72.6
+23,Merced_CA,34.4,0.0,65.6
+24,Modoc_CA,5.3,0.0,94.7
+25,Mono_CA,9.7,0.0,90.3
+26,Monterey_CA,42.6,0.0,57.4
+27,Napa_CA,63.5,12.6,23.9
+28,Nevada_CA,46.3,0.0,53.7
+29,Orange_CA,95.7,4.3,0.0
+30,Placer_CA,60.2,7.5,32.2
+31,Plumas_CA,10.5,0.0,89.5
+32,Riverside_CA,35.8,16.8,47.4
+33,Sacramento_CA,81.7,18.3,0.0
+34,San Benito_CA,15.6,0.0,84.4
+35,San Bernardino_CA,9.9,4.3,85.9
+36,San Diego_CA,47.7,22.0,30.4
+37,San Francisco_CA,98.3,1.7,0.0
+38,San Joaquin_CA,58.1,19.7,22.2
+39,San Luis Obispo_CA,41.0,7.6,51.4
+40,San Mateo_CA,75.2,24.8,0.0
+41,Santa Barbara_CA,33.6,3.4,62.9
+42,Santa Clara_CA,66.2,17.5,16.3
+43,Santa Cruz_CA,69.6,0.0,30.4
+44,Shasta_CA,16.3,0.0,83.7
+45,Sierra_CA,15.6,0.0,84.4
+46,Siskiyou_CA,5.6,0.0,94.4
+47,Solano_CA,74.7,25.3,0.0
+48,Sonoma_CA,83.2,0.2,16.5
+49,Stanislaus_CA,42.7,14.1,43.2
+50,Sutter_CA,17.3,0.0,82.7
+51,Tehama_CA,8.0,0.0,92.0
+52,Trinity_CA,7.2,0.0,92.8
+53,Tulare_CA,15.7,2.5,81.8
+54,Tuolumne_CA,24.5,0.0,75.5
+55,Ventura_CA,49.4,7.0,43.6
+56,Yolo_CA,66.3,23.3,10.4
+57,Yuba_CA,15.1,0.0,84.9
+58,Aitkin_MN,0.0,0.0,100.0
+59,Anoka_MN,60.7,39.3,0.0
+60,Becker_MN,0.0,15.2,84.8
+61,Beltrami_MN,3.4,0.0,96.6
+62,Benton_MN,4.8,22.9,72.2
+63,Big Stone_MN,0.0,30.1,69.9
+64,Blue Earth_MN,17.6,38.5,43.9
+65,Brown_MN,11.4,0.0,88.6
+66,Carlton_MN,22.9,28.8,48.3
+67,Carver_MN,20.1,79.9,0.0
+68,Cass_MN,8.6,0.0,91.4
+69,Chippewa_MN,13.9,45.3,40.8
+70,Chisago_MN,41.4,58.6,0.0
+71,Clay_MN,6.5,28.7,64.9
+72,Clearwater_MN,0.0,0.0,100.0
+73,Cook_MN,14.3,0.0,85.7
+74,Cottonwood_MN,0.0,62.2,37.8
+75,Crow Wing_MN,15.5,12.3,72.2
+76,Dakota_MN,77.0,23.0,0.0
+77,Dodge_MN,8.6,23.6,67.8
+78,Douglas_MN,15.4,19.6,65.0
+79,Faribault_MN,0.0,6.2,93.8
+80,Fillmore_MN,19.1,7.7,73.2
+81,Freeborn_MN,34.9,63.2,1.8
+82,Goodhue_MN,44.0,33.8,22.2
+83,Grant_MN,0.0,30.2,69.8
+84,Hennepin_MN,91.6,8.4,0.0
+85,Houston_MN,8.2,0.0,91.8
+86,Hubbard_MN,1.0,4.6,94.4
+87,Isanti_MN,37.4,48.8,13.8
+88,Itasca_MN,0.0,4.1,95.9
+89,Jackson_MN,0.0,56.0,44.0
+90,Kanabec_MN,5.9,22.4,71.7
+91,Kandiyohi_MN,23.7,31.5,44.9
+92,Kittson_MN,0.0,13.2,86.8
+93,Koochiching_MN,0.0,0.0,100.0
+94,Lac qui Parle_MN,1.9,38.3,59.8
+95,Lake_MN,4.9,2.7,92.3
+96,Lake of the Woods_MN,0.0,0.0,100.0
+97,Le Sueur_MN,20.9,56.1,23.0
+98,Lincoln_MN,0.0,14.9,85.1
+99,Lyon_MN,15.4,40.3,44.2
+100,McLeod_MN,28.1,65.6,6.3
+101,Mahnomen_MN,0.0,0.0,100.0
+102,Marshall_MN,0.0,0.7,99.3
+103,Martin_MN,15.2,16.3,68.4
+104,Meeker_MN,6.4,31.9,61.6
+105,Mille Lacs_MN,11.2,42.0,46.8
+106,Morrison_MN,1.8,17.7,80.4
+107,Mower_MN,16.2,49.1,34.7
+108,Murray_MN,0.0,25.8,74.2
+109,Nicollet_MN,29.4,19.3,51.3
+110,Nobles_MN,15.4,37.1,47.6
+111,Norman_MN,0.0,0.0,100.0
+112,Olmsted_MN,54.5,45.5,0.0
+113,Otter Tail_MN,0.0,18.2,81.8
+114,Pennington_MN,0.0,0.0,100.0
+115,Pine_MN,22.3,13.4,64.3
+116,Pipestone_MN,23.9,40.4,35.7
+117,Polk_MN,2.0,0.0,98.0
+118,Pope_MN,0.0,33.3,66.7
+119,Ramsey_MN,100.0,0.0,0.0
+120,Red Lake_MN,0.0,24.9,75.1
+121,Redwood_MN,15.0,53.1,31.8
+122,Renville_MN,16.6,53.9,29.5
+123,Rice_MN,19.2,49.5,31.3
+124,Rock_MN,15.2,33.2,51.6
+125,Roseau_MN,0.0,0.0,100.0
+126,St. Louis_MN,10.8,3.6,85.6
+127,Scott_MN,73.5,26.5,0.0
+128,Sherburne_MN,36.0,64.0,0.0
+129,Sibley_MN,2.9,32.1,65.0
+130,Stearns_MN,8.5,48.9,42.6
+131,Steele_MN,34.6,37.0,28.3
+132,Stevens_MN,23.1,64.3,12.6
+133,Swift_MN,0.0,29.8,70.2
+134,Todd_MN,7.5,19.1,73.3
+135,Traverse_MN,0.0,0.0,100.0
+136,Wabasha_MN,26.9,44.2,28.8
+137,Wadena_MN,4.8,0.0,95.2
+138,Waseca_MN,0.0,68.1,31.9
+139,Washington_MN,63.0,37.0,0.0
+140,Watonwan_MN,0.0,47.4,52.6
+141,Wilkin_MN,0.0,13.5,86.5
+142,Winona_MN,16.2,34.1,49.8
+143,Wright_MN,47.4,52.6,0.0
+144,Yellow Medicine_MN,1.9,60.3,37.8
+145,Anderson_TX,10.3,0.0,89.7
+146,Andrews_TX,0.0,0.0,100.0
+147,Angelina_TX,13.7,0.0,86.3
+148,Aransas_TX,22.7,0.0,77.3
+149,Archer_TX,2.8,0.0,97.2
+150,Armstrong_TX,0.0,0.0,100.0
+151,Atascosa_TX,0.0,9.7,90.3
+152,Austin_TX,13.7,2.5,83.8
+153,Bailey_TX,0.0,0.0,100.0
+154,Bandera_TX,14.1,0.3,85.7
+155,Bastrop_TX,18.5,13.3,68.2
+156,Baylor_TX,0.0,0.0,100.0
+157,Bee_TX,0.0,0.0,100.0
+158,Bell_TX,36.3,37.7,26.0
+159,Bexar_TX,65.7,34.3,0.0
+160,Blanco_TX,18.5,0.0,81.5
+161,Borden_TX,0.0,0.0,100.0
+162,Bosque_TX,2.1,0.0,97.9
+163,Bowie_TX,8.5,0.0,91.5
+164,Brazoria_TX,27.4,12.1,60.4
+165,Brazos_TX,50.3,20.1,29.6
+166,Brewster_TX,0.0,0.0,100.0
+167,Briscoe_TX,0.0,0.0,100.0
+168,Brooks_TX,0.0,0.0,100.0
+169,Brown_TX,0.0,12.4,87.6
+170,Burleson_TX,4.0,0.0,96.0
+171,Burnet_TX,19.6,15.5,64.9
+172,Caldwell_TX,2.5,3.7,93.8
+173,Calhoun_TX,0.0,0.0,100.0
+174,Callahan_TX,0.0,0.0,100.0
+175,Cameron_TX,19.2,0.0,80.8
+176,Camp_TX,1.0,0.0,99.0
+177,Carson_TX,0.0,0.0,100.0
+178,Cass_TX,0.0,0.0,100.0
+179,Castro_TX,0.0,0.0,100.0
+180,Chambers_TX,4.8,12.0,83.2
+181,Cherokee_TX,0.0,0.0,100.0
+182,Childress_TX,15.5,0.0,84.5
+183,Clay_TX,11.3,0.0,88.7
+184,Cochran_TX,0.0,0.0,100.0
+185,Coke_TX,0.0,0.0,100.0
+186,Coleman_TX,0.0,0.0,100.0
+187,Collin_TX,50.0,49.5,0.5
+188,Collingsworth_TX,2.3,0.0,97.7
+189,Colorado_TX,19.2,0.0,80.8
+190,Comal_TX,41.6,46.3,12.1
+191,Comanche_TX,0.0,0.0,100.0
+192,Concho_TX,0.0,0.0,100.0
+193,Cooke_TX,0.0,0.0,100.0
+194,Coryell_TX,6.9,0.0,93.1
+195,Cottle_TX,0.0,0.0,100.0
+196,Crane_TX,0.0,0.0,100.0
+197,Crockett_TX,4.2,0.0,95.8
+198,Crosby_TX,0.0,0.0,100.0
+199,Culberson_TX,3.0,0.0,97.0
+200,Dallam_TX,0.0,0.0,100.0
+201,Dallas_TX,98.3,1.7,0.0
+202,Dawson_TX,0.0,0.0,100.0
+203,Deaf Smith_TX,0.0,0.0,100.0
+204,Delta_TX,0.0,0.0,100.0
+205,Denton_TX,61.8,38.2,0.0
+206,DeWitt_TX,0.0,0.0,100.0
+207,Dickens_TX,0.0,0.0,100.0
+208,Dimmit_TX,0.0,0.0,100.0
+209,Donley_TX,0.0,0.0,100.0
+210,Duval_TX,0.0,0.0,100.0
+211,Eastland_TX,23.8,0.0,76.2
+212,Ector_TX,16.1,3.8,80.1
+213,Edwards_TX,0.0,0.0,100.0
+214,Ellis_TX,42.1,17.0,40.8
+215,El Paso_TX,29.3,0.0,70.7
+216,Erath_TX,1.8,0.0,98.2
+217,Falls_TX,0.0,0.0,100.0
+218,Fannin_TX,0.0,0.0,100.0
+219,Fayette_TX,26.4,0.0,73.6
+220,Fisher_TX,0.5,0.0,99.5
+221,Floyd_TX,0.0,0.0,100.0
+222,Foard_TX,0.0,0.0,100.0
+223,Fort Bend_TX,37.9,41.2,21.0
+224,Franklin_TX,0.0,0.0,100.0
+225,Freestone_TX,0.0,0.0,100.0
+226,Frio_TX,0.0,0.0,100.0
+227,Gaines_TX,0.0,0.0,100.0
+228,Galveston_TX,51.4,48.6,0.0
+229,Garza_TX,0.0,0.0,100.0
+230,Gillespie_TX,22.2,0.0,77.8
+231,Glasscock_TX,0.0,0.0,100.0
+232,Goliad_TX,0.0,0.0,100.0
+233,Gonzales_TX,0.7,0.0,99.3
+234,Gray_TX,0.0,0.0,100.0
+235,Grayson_TX,18.0,0.0,82.0
+236,Gregg_TX,45.4,0.0,54.6
+237,Grimes_TX,11.7,0.0,88.3
+238,Guadalupe_TX,45.5,22.7,31.7
+239,Hale_TX,0.0,0.0,100.0
+240,Hall_TX,0.0,0.0,100.0
+241,Hamilton_TX,8.4,0.0,91.6
+242,Hansford_TX,0.0,0.0,100.0
+243,Hardeman_TX,0.0,0.0,100.0
+244,Hardin_TX,15.8,0.0,84.2
+245,Harris_TX,89.8,10.2,0.0
+246,Harrison_TX,19.1,0.0,80.9
+247,Hartley_TX,0.0,0.0,100.0
+248,Haskell_TX,0.0,0.0,100.0
+249,Hays_TX,70.3,29.7,0.0
+250,Hemphill_TX,0.0,0.0,100.0
+251,Henderson_TX,8.6,0.0,91.4
+252,Hidalgo_TX,15.3,0.0,84.7
+253,Hill_TX,11.3,0.0,88.7
+254,Hockley_TX,0.0,0.0,100.0
+255,Hood_TX,39.0,28.0,33.0
+256,Hopkins_TX,14.0,0.0,86.0
+257,Houston_TX,0.0,0.0,100.0
+258,Howard_TX,12.3,0.0,87.7
+259,Hudspeth_TX,0.5,0.0,99.5
+260,Hunt_TX,15.4,0.0,84.6
+261,Hutchinson_TX,0.0,0.0,100.0
+262,Irion_TX,0.0,0.0,100.0
+263,Jack_TX,0.0,0.0,100.0
+264,Jackson_TX,12.4,0.0,87.6
+265,Jasper_TX,10.5,0.0,89.5
+266,Jeff Davis_TX,4.9,0.0,95.1
+267,Jefferson_TX,24.3,0.0,75.7
+268,Jim Hogg_TX,0.0,0.0,100.0
+269,Jim Wells_TX,0.0,0.0,100.0
+270,Johnson_TX,22.5,24.5,53.0
+271,Jones_TX,0.0,0.0,100.0
+272,Karnes_TX,0.0,0.0,100.0
+273,Kaufman_TX,8.0,0.9,91.1
+274,Kendall_TX,24.6,16.5,58.9
+275,Kenedy_TX,0.0,0.0,100.0
+276,Kent_TX,0.0,0.0,100.0
+277,Kerr_TX,25.0,11.0,64.1
+278,Kimble_TX,10.5,0.0,89.5
+279,King_TX,0.0,0.0,100.0
+280,Kinney_TX,0.0,0.0,100.0
+281,Kleberg_TX,14.1,0.0,85.9
+282,Knox_TX,0.0,0.0,100.0
+283,Lamar_TX,0.0,0.0,100.0
+284,Lamb_TX,0.0,0.0,100.0
+285,Lampasas_TX,26.0,13.5,60.5
+286,La Salle_TX,0.0,0.0,100.0
+287,Lavaca_TX,0.6,0.0,99.4
+288,Lee_TX,17.5,0.0,82.5
+289,Leon_TX,0.0,0.0,100.0
+290,Liberty_TX,0.1,26.5,73.3
+291,Limestone_TX,0.0,0.0,100.0
+292,Lipscomb_TX,0.0,0.0,100.0
+293,Live Oak_TX,20.6,0.0,79.4
+294,Llano_TX,22.7,0.0,77.3
+295,Loving_TX,0.0,0.0,100.0
+296,Lubbock_TX,23.7,29.4,46.9
+297,Lynn_TX,0.0,0.0,100.0
+298,McCulloch_TX,0.0,0.0,100.0
+299,McLennan_TX,20.1,0.0,79.9
+300,McMullen_TX,0.0,0.0,100.0
+301,Madison_TX,23.5,0.0,76.5
+302,Marion_TX,0.0,0.0,100.0
+303,Martin_TX,1.0,0.0,99.0
+304,Mason_TX,0.0,0.0,100.0
+305,Matagorda_TX,12.5,0.0,87.5
+306,Maverick_TX,4.3,0.0,95.7
+307,Medina_TX,0.0,0.9,99.1
+308,Menard_TX,0.0,0.0,100.0
+309,Midland_TX,24.9,9.4,65.7
+310,Milam_TX,0.0,0.0,100.0
+311,Mills_TX,0.0,0.0,100.0
+312,Mitchell_TX,0.0,0.0,100.0
+313,Montague_TX,0.0,0.0,100.0
+314,Montgomery_TX,49.5,50.5,0.0
+315,Moore_TX,12.9,0.0,87.1
+316,Morris_TX,0.0,0.0,100.0
+317,Motley_TX,0.0,0.0,100.0
+318,Nacogdoches_TX,11.3,0.0,88.7
+319,Navarro_TX,10.4,0.0,89.6
+320,Newton_TX,0.0,0.0,100.0
+321,Nolan_TX,11.9,0.0,88.1
+322,Nueces_TX,34.4,22.9,42.7
+323,Ochiltree_TX,0.0,0.0,100.0
+324,Oldham_TX,0.0,0.0,100.0
+325,Orange_TX,35.9,26.2,37.9
+326,Palo Pinto_TX,0.0,0.0,100.0
+327,Panola_TX,0.0,0.0,100.0
+328,Parker_TX,17.6,15.8,66.6
+329,Parmer_TX,0.0,0.0,100.0
+330,Pecos_TX,2.7,0.0,97.3
+331,Polk_TX,0.0,8.4,91.6
+332,Potter_TX,13.4,0.0,86.6
+333,Presidio_TX,2.9,0.0,97.1
+334,Rains_TX,0.0,0.0,100.0
+335,Randall_TX,13.0,0.0,87.0
+336,Reagan_TX,9.4,0.0,90.6
+337,Real_TX,0.0,0.0,100.0
+338,Red River_TX,0.0,0.0,100.0
+339,Reeves_TX,4.2,0.0,95.8
+340,Refugio_TX,0.0,0.0,100.0
+341,Roberts_TX,0.0,0.0,100.0
+342,Robertson_TX,0.0,0.0,100.0
+343,Rockwall_TX,85.0,0.0,15.0
+344,Runnels_TX,10.5,0.0,89.5
+345,Rusk_TX,0.1,0.0,99.9
+346,Sabine_TX,0.0,0.0,100.0
+347,San Augustine_TX,1.6,0.0,98.4
+348,San Jacinto_TX,0.0,0.0,100.0
+349,San Patricio_TX,12.5,16.3,71.2
+350,San Saba_TX,0.0,0.0,100.0
+351,Schleicher_TX,0.0,0.0,100.0
+352,Scurry_TX,0.0,13.1,86.9
+353,Shackelford_TX,0.0,0.0,100.0
+354,Shelby_TX,0.0,0.0,100.0
+355,Sherman_TX,0.0,0.0,100.0
+356,Smith_TX,28.7,0.0,71.3
+357,Somervell_TX,0.0,0.0,100.0
+358,Starr_TX,0.0,0.0,100.0
+359,Stephens_TX,0.0,0.0,100.0
+360,Sterling_TX,0.0,0.0,100.0
+361,Stonewall_TX,0.0,0.0,100.0
+362,Sutton_TX,0.0,0.0,100.0
+363,Swisher_TX,0.0,0.0,100.0
+364,Tarrant_TX,86.9,13.1,0.0
+365,Taylor_TX,15.7,0.0,84.3
+366,Terrell_TX,0.0,0.0,100.0
+367,Terry_TX,0.0,0.0,100.0
+368,Throckmorton_TX,0.0,0.0,100.0
+369,Titus_TX,25.6,0.0,74.4
+370,Tom Green_TX,7.2,0.0,92.8
+371,Travis_TX,82.4,17.6,0.0
+372,Trinity_TX,0.0,0.0,100.0
+373,Tyler_TX,0.0,0.0,100.0
+374,Upshur_TX,0.0,0.0,100.0
+375,Upton_TX,0.0,0.0,100.0
+376,Uvalde_TX,7.1,0.0,92.9
+377,Val Verde_TX,3.1,0.0,96.9
+378,Van Zandt_TX,13.1,0.0,86.9
+379,Victoria_TX,21.4,0.0,78.6
+380,Walker_TX,16.3,0.0,83.7
+381,Waller_TX,36.8,4.7,58.5
+382,Ward_TX,14.9,2.1,82.9
+383,Washington_TX,35.3,15.6,49.0
+384,Webb_TX,3.2,0.0,96.8
+385,Wharton_TX,10.6,0.0,89.4
+386,Wheeler_TX,9.8,0.0,90.2
+387,Wichita_TX,30.6,0.0,69.4
+388,Wilbarger_TX,11.4,0.0,88.6
+389,Willacy_TX,0.0,0.0,100.0
+390,Williamson_TX,33.0,17.7,49.3
+391,Wilson_TX,13.7,0.0,86.3
+392,Winkler_TX,0.3,0.0,99.7
+393,Wise_TX,0.0,0.0,100.0
+394,Wood_TX,0.0,0.0,100.0
+395,Yoakum_TX,0.0,0.0,100.0
+396,Young_TX,0.0,0.0,100.0
+397,Zapata_TX,0.0,0.0,100.0
+398,Zavala_TX,0.0,0.0,100.0
