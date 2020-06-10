@@ -36,10 +36,15 @@
 
 <div id='map'></div>
 
-<script type="text/javascript" src="state_output.js"></script>
+<script type="text/javascript" src="us-states.js"></script>
 
 <script type="text/javascript">
 
+	// function thousands_separators(num){
+	// 	var num_parts = num.toString().split(".");
+	// 	num_parts[0] = num_parts[0].replace(/B(?=(\d{3})+(?!\d))/g, ",");
+	// 	return num_parts.join(".");
+  	// };
 	var map = L.map('map').setView([39.8333333, -98.585522], 4.5);
 
 	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -64,9 +69,9 @@
 	
 	info.update = function (props) {
 		this._div.innerHTML = '<h4>US Transportation Emissions</h4>' +  (props ?
-			'<b>' + props.NAME + '</b><br />' + 'Total Annual Emissions: ' +  props.annual_ghg_emissions.toLocaleString() + ' GHG'
-			+ '</b><br />' + 'Annual Operating Cost: $' + props.annual_operating_cost.toLocaleString()
-			+ '</b><br />' + 'Total Annual Cost: $' + props.total_annual_cost.toLocaleString()
+			'<b>' + props.NAME + '</b><br />' + 'Total Annual Emissions: ' +  Math.round((props.annual_ghg_emissions/1000000)).toLocaleString() + ' (millions) GHG'
+			+ '</b><br />' + 'Annual Operating Cost: $' + Math.round((props.annual_operating_cost/1000000).toLocaleString()) + ' (millions)'
+			+ '</b><br />' + 'Total Annual Cost: $' + Math.round((props.total_annual_cost/1000000)).toLocaleString()+ ' (millions)'
 			+ '</b><br />' + 'BEV: ' + props.vehicle_pc_BEV + ' % ' + '(' + props.vehicle_split_BEV.toFixed(0).toLocaleString() + ')'
 			+ '</b><br />' + 'FFV: ' + props.vehicle_pc_FFV + ' % ' + '(' + props.vehicle_split_FFV.toFixed(0).toLocaleString() + ')'
 			+ '</b><br />' + 'SIDI: ' + props.vehicle_pc_SIDI + ' % ' + '(' + props.vehicle_split_SIDI.toFixed(0).toLocaleString() + ')'
