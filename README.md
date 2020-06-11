@@ -9,22 +9,24 @@ In order to utilise the Biofuels Model, follow these steps:
 4. Run first cells including imports, then change input as desired, and then run all cells. The notebook will automagically run the preprocessing (runtime ranging from 0.1s to 4 minutes depending on user inputs), the optimisation model (runtime ~ 15 seconds), and the post-processing files, which update the JavaScript visualisaiton and opens it in a new tab.
 
 ### File Stucture
+
+All files are available both as `*.ipynb` and as `*.py` files. The Python specific scripts are for use specifically with the `394combo.ipynb` file. 
 ```bash
 .
-├── 394clean.ipynb\\
-├── **394combo.ipynb**\\
+├── README.md
+├── 394clean.ipynb
+├── 394combo.ipynb
 ├── 394fixup.ipynb
-├── 394opt.py
 ├── 394post.ipynb
 ├── 394quick.py
+├── 394opt.py
 ├── 394refresh.py
-├── README.md
 ├── e85.geojson
-├── e85_vi.csv
 ├── efuels.geojson
 ├── efuels_vi.csv
-├── iems394.html
+├── e85_vi.csv
 ├── model_results.csv
+├── iems394.html
 ├── optimisation_data
 │   ├── B(r).csv
 │   ├── C(F).csv
