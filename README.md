@@ -5,7 +5,7 @@ In order to utilise the Biofuels Model, follow these steps:
 
 1. Git clone this repository using `git clone https://github.com/saif1457/iems394.git`. This will download the entire repository. Alternatively, use the `Download ZIP file` functionality.
 2. Install all dependencies using pip3 using ` pip3 install -r requirements.txt`. This will import all dependencies required to run the files. 
-3. Spin up a new Jupyter Notebook using `jupyter notebook 394combo.ipynb`. Notebooks allow for UI features to change parameters, whereas this is not a s supported feature in Jupyter Notebooks (as of 6/11/2020).
+3. Spin up a new Jupyter Notebook using `jupyter notebook 394combo.ipynb`. Notebooks allow for UI features to change parameters, whereas this is not a supported feature in Jupyter Notebooks (as of 6/11/2020).
 4. Run first cells including imports, then change input as desired, and then run all cells. The notebook will automagically run the preprocessing (runtime ranging from 0.1s to 4 minutes depending on user inputs), the optimisation model (runtime ~ 15 seconds), and the post-processing files, which update the JavaScript visualisaiton and opens it in a new tab.
 
 ### File Stucture
