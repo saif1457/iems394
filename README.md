@@ -4,7 +4,16 @@
 An online version of this tool (with a GHG reduction target of 25% and a 6 mile radius for each EV/E85 station) is [available here](http://www.saifbhatti.com/iems394).
 
 ---------------
-#### IEMS 394 data process
+#### IEMS 394 Data Process
+
+##### Overall Data Pipeline
+
+<p align="center">
+  <img src="proposal.png" align="center" alt="drawing" width="700"/>
+</p>
+
+
+##### Using the Model
 
 In order to utilise the Biofuels Model, follow these steps:
 
