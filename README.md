@@ -5,7 +5,7 @@ An online version of this tool (with a GHG reduction target of 25% and a 6 mile 
 
 
 <p align="center">
-  <img src="visualisation.png" align="center" alt="drawing" width="600"/>
+  <img src="visualisation.png" align="center" alt="drawing" width="800"/>
 </p>
 
 ---------------
@@ -14,7 +14,7 @@ An online version of this tool (with a GHG reduction target of 25% and a 6 mile 
 ##### Overall Data Pipeline
 
 <p align="center">
-  <img src="proposal.png" align="center" alt="drawing" width="400"/>
+  <img src="proposal.png" align="center" alt="drawing" width="600"/>
 </p>
 
 
