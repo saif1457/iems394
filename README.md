@@ -10,8 +10,8 @@ In order to utilise the Biofuels Model, follow these steps:
 
 ### File Stucture
 .
-├── 394clean.ipynb
-├── **394combo.ipynb**
+├── 394clean.ipynb\\
+├── **394combo.ipynb**\\
 ├── 394fixup.ipynb
 ├── 394opt.py
 ├── 394post.ipynb
