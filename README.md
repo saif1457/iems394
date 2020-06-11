@@ -1,11 +1,10 @@
 ## IEMS 394 BioFuels Optimisation Model
 #### Online Visualisation Tool
 
-An online version of this tool (with a GHG reduction target of 25% and a 6 mile radius for each EV/E85 station) is [available here](www.saifbhatti.com/iems394).
+An online version of this tool (with a GHG reduction target of 25% and a 6 mile radius for each EV/E85 station) is [available here](http://www.saifbhatti.com/iems394).
 
 ---------------
 #### IEMS 394 data process
-
 
 In order to utilise the Biofuels Model, follow these steps:
 
@@ -33,6 +32,9 @@ All files are available both as `*.ipynb` and as `*.py` files. The Python specif
 ├── model_results.csv
 ├── iems394.html
 ├── optimisation_data
+├── proposal.png
+├── requirements.txt
+└── state_output.js
 │   ├── B(r).csv
 │   ├── C(F).csv
 │   ├── CC(v,s).csv
@@ -82,7 +84,17 @@ All files are available both as `*.ipynb` and as `*.py` files. The Python specif
 │       ├── mn_ev_registrations_public.xlsx
 │       ├── tx_ev_registrations_public.csv
 │       └── tx_ev_registrations_public.xlsx
-├── proposal.png
-├── requirements.txt
-└── state_output.js
 ```
+#### Technical Support / Credits
+* Saif Bhatti, [saifbhatti@u.northwestern.edu](mailto:saifbhatti@u.northwestern.edu)
+* Joyce Lu, [joycelu2021@u.northwestern.edu](mailto:joycelu2021@u.northwestern.edu)
+* Hannah Seigel, [hannahseigel2021@u.northwestern.edu](mailto:hannahseigel2021@u.northwestern.edu)
+* Basak Yolac, [basakyolac2021@u.northwestern.edu](mailto:basakyolac2021@u.northwestern.edu)
+
+BioFuels Team - IEMS 394, Spring 2020 <br>
+Professor Jill Wilson, Professor Barry Nelson <br>
+**Northwestern University** <br>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/95/2d/df/952ddfb87ffbc3c087481e89d1db0150.jpg" align="center" alt="drawing" width="200"/>
+</p>
