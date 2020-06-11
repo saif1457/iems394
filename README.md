@@ -9,6 +9,7 @@ In order to utilise the Biofuels Model, follow these steps:
 4. Run first cells including imports, then change input as desired, and then run all cells. The notebook will automagically run the preprocessing (runtime ranging from 0.1s to 4 minutes depending on user inputs), the optimisation model (runtime ~ 15 seconds), and the post-processing files, which update the JavaScript visualisaiton and opens it in a new tab.
 
 ### File Stucture
+```bash
 .
 ├── 394clean.ipynb\\
 ├── **394combo.ipynb**\\
@@ -77,3 +78,4 @@ In order to utilise the Biofuels Model, follow these steps:
 ├── proposal.png
 ├── requirements.txt
 └── state_output.js
+```
