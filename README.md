@@ -11,20 +11,32 @@ In order to utilise the Biofuels Model, follow these steps:
 1. Git clone this repository using `git clone https://github.com/saif1457/iems394.git`. This will download the entire repository. Alternatively, use the `Download ZIP file` functionality.
 2. Install all dependencies using pip3 using ` pip3 install -r requirements.txt`. This will import all dependencies required to run the files. 
 3. Spin up a new Jupyter Notebook using `jupyter notebook 394combo.ipynb`. Notebooks allow for UI features to change parameters, whereas this is not a supported feature in Jupyter Notebooks (as of 6/11/2020).
-4. Run first cells including imports, then change input as desired, and then run all cells. The notebook will automagically run the preprocessing (runtime ranging from 0.1s to 4 minutes depending on user inputs), the optimisation model (runtime ~ 15 seconds), and the post-processing files, which update the JavaScript visualisaiton and opens it in a new tab.
+4. Run first cells including imports, then change input to parameters as desired, and then run all cells. The notebook will automagically run the following: 
+-  preprocessing (`394quick.py` file , runtime ranging from 0.1s to 4 minutes depending on user inputs), 
+- optimisation model (`394opt.py` file, runtime ~15 seconds),
+- post-processing (`394refresh.py` file, runtime ~20 seconds), which updates the JavaScript visualisation and opens it in a new tab.
+
+##### Endnote: 
+Overall run time ranges from under a minute to 6 minutes depending on the user choices for parameters mentioned above. However, the preprocessing file stores all results from computations into `preprocessed_data/pickles` and will reload from memory if the same user choices are selected.
+
 ---------------
 #### File Stucture
 
-All files are available both as `*.ipynb` and as `*.py` files. The Python specific scripts are for use specifically with the `394combo.ipynb` file. 
 ```bash
 ├── README.md
-├── 394clean.ipynb
 ├── 394combo.ipynb
-├── 394fixup.ipynb
-├── 394post.ipynb
 ├── 394quick.py
 ├── 394opt.py
 ├── 394refresh.py
+```
+
+<details>
+  <summary>Click to view entire file structure</summary>
+  
+  ```bash
+├── 394clean.ipynb
+├── 394fixup.ipynb
+├── 394post.ipynb
 ├── e85.geojson
 ├── efuels.geojson
 ├── efuels_vi.csv
@@ -85,10 +97,15 @@ All files are available both as `*.ipynb` and as `*.py` files. The Python specif
 │       ├── tx_ev_registrations_public.csv
 │       └── tx_ev_registrations_public.xlsx
 ```
+ 
+</details>
+
+All files are available both as `*.ipynb` and as `*.py` files. The Python specific scripts are for use specifically with the `394combo.ipynb` file. 
+
 #### Technical Support / Credits
 * Saif Bhatti, [saifbhatti@u.northwestern.edu](mailto:saifbhatti@u.northwestern.edu)
 * Joyce Lu, [joycelu2021@u.northwestern.edu](mailto:joycelu2021@u.northwestern.edu)
-* Hannah Seigel, [hannahseigel2021@u.northwestern.edu](mailto:hannahseigel2021@u.northwestern.edu)
+* Hannah Siegel, [hannahsiegel2021@u.northwestern.edu](mailto:hannahseigel2021@u.northwestern.edu)
 * Basak Yolac, [basakyolac2021@u.northwestern.edu](mailto:basakyolac2021@u.northwestern.edu)
 
 BioFuels Team - IEMS 394, Spring 2020 <br>
