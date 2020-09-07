@@ -262,7 +262,7 @@ pytest==5.4.3
 python-dateutil==2.8.1
 pytz==2020.1
 PyWavelets==1.1.1
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==19.0.1
 QtAwesome==0.7.2
 qtconsole==4.3.1
