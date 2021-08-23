@@ -150,7 +150,7 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyter-dashboards==0.7.0
 jupyter-http-over-ws==0.0.8
-jupyterlab==2.1.4
+jupyterlab==2.2.10
 jupyterlab-launcher==0.13.1
 jupyterlab-server==1.1.5
 jupyterthemes==0.20.0
