@@ -51,7 +51,7 @@ contextlib2==0.6.0.post1
 contextvars==2.4
 cryptography==2.9.2
 cssselect==1.1.0
-cvxopt==1.2.5
+cvxopt==1.2.7
 cycler==0.10.0
 cymem==2.0.3
 cytoolz==0.10.1
