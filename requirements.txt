@@ -286,7 +286,7 @@ schedule==0.6.0
 scikit-image==0.13.0
 scikit-learn==0.23.1
 scipy==1.4.1
-Scrapy==2.1.0
+Scrapy==2.6.0
 screen==1.0.1
 seaborn==0.10.1
 selenium==3.141.0
