@@ -248,7 +248,7 @@ pylint==1.7.4
 pyodbc==4.0.30
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyproj==2.6.1.post1
 PyQRCode==1.2.1
 PyQt5==5.12.3
