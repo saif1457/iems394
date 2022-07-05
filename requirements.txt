@@ -344,7 +344,7 @@ twilio==6.42.0
 Twisted==20.3.0
 typing==3.7.4.1
 typing-extensions==3.7.4.2
-ujson==3.0.0
+ujson==5.4.0
 unicode==2.7
 unicodecsv==0.14.1
 Unidecode==1.1.1
