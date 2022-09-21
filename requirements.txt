@@ -154,7 +154,7 @@ jupyterlab==2.1.4
 jupyterlab-launcher==0.13.1
 jupyterlab-server==1.1.5
 jupyterthemes==0.20.0
-jwcrypto==0.7
+jwcrypto==1.4
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
 lesscpy==0.14.0
